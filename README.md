@@ -1,4 +1,3 @@
-# IMS
-Inventory Management System
+# ZenVentory
 
-Might do this using Wordpress
+An Inventory Management System
