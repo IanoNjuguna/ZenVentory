@@ -4,3 +4,6 @@
 
 # DB Files
 db.sqlite*
+
+# IDE Files
+/.vscode
